@@ -1,2 +1,6 @@
-objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
-coll001,test001.jpg,,,"Administration Building, University of Idaho, No. 30",Pacific Photo Co.,1910,"Photographic postcard of the University of Idaho administration building in Moscow, Idaho.",universities;buildings;campuses;picture postcards,"Moscow, Idaho",46.725562,-117.009633,"PG 9, Postcard Collection, University of Idaho Library Special Collections and Archives",pg_9_12_01bl,Image;StillImage,image/jpeg,eng,,http://rightsstatements.org/vocab/NoC-US/1.0/
+objectid,title,image/jpg,filename,date,subject,location,latitude,longitude,description
+item1,Spirit of the sky,image/jpeg,bird.jpg,2021,brid; sky,Yunnan,27.19526108,103.5536956,A city in China
+item2,Cloud,image/jpg,sky.jpg,2021,sky; cloud; prairie,Yunnan,27.19526108,103.5536956,A city in China
+item3,Sky,image/jpg,sky1.jpg,2021,sky; cloud;,Yunnan,27.19526108,103.5536956,A city in China
+item4,Amazing nature,image/jpg,sky2.jpg,2021,sky; cloud; mountain,Yunnan,27.19526108,103.5536956,A city in China
+item5,inverted reflection in water,image/jpg,sky3.jpg,2021,sky; cloud; lake surface,Yunnan,27.19526108,103.5536956,A city in China
